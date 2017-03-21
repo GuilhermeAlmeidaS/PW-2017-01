@@ -6,6 +6,6 @@ Cliente: Navegador
 4. Renderiza a resposta
 
 Servidor
-2. Processa a requisição;
+2. Processa a requisição
 3. Envia uma resposta: Recurso
 
